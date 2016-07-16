@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-rsvp",
+  "version": "1.0.0",
+  "description": "Nodejs base RSVP system (tutorial)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabith/nodejs-rsvp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rsvp",
+    "tutorial"
+  ],
+  "author": "Shabith Ishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shabith/nodejs-rsvp/issues"
+  },
+  "homepage": "https://github.com/shabith/nodejs-rsvp#readme"
+}
